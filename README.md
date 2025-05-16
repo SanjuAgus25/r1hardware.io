@@ -1,2 +1,7 @@
 # r1hardware.io
-Usado en clases de hardware.
+
+Almacen para base de datos en relación con c#.
+
+- Codigo.
+- Teoría.
+- Problemas: Analisis y Diseño.
